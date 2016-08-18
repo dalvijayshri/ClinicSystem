@@ -117,41 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="bgcolor_hr1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bgcolor_hr1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sneha75x75" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sneha75x75.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="download2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\download2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="billing60x60" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\billing60x60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="registration60x60" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\registration60x60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Sneha Specialty logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Sneha Specialty logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="logo_Main_Screen1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo_Main_Screen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="logo_Main_Screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo_Main_Screen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="opd60x60" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\opd60x60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="bgcolor_hr" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\bgcolor_hr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="admin60x60" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\admin60x60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Adarsh_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Adarsh_Logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

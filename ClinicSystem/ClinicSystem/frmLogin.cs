@@ -35,5 +35,10 @@ namespace ClinicSystem
         {
 
         }
+
+        private void pnlTop_Paint_1(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

@@ -315,5 +315,17 @@ namespace ClinicSystem
         {
 
         }
+
+        private void ttmAppointment_Click(object sender, EventArgs e)
+        {
+            frmAppointment f = new frmAppointment();
+            //f.MdiParent = frmMain;
+            f.Show();
+        }
+
+        private void ttmAppointment_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

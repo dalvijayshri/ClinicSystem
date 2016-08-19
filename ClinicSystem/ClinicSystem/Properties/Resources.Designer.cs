@@ -73,9 +73,69 @@ namespace ClinicSystem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Add {
+            get {
+                object obj = ResourceManager.GetObject("Add", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Add1 {
+            get {
+                object obj = ResourceManager.GetObject("Add1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap admin60x60 {
             get {
                 object obj = ResourceManager.GetObject("admin60x60", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Appointment {
+            get {
+                object obj = ResourceManager.GetObject("Appointment", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Appointment1 {
+            get {
+                object obj = ResourceManager.GetObject("Appointment1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Appointment2 {
+            get {
+                object obj = ResourceManager.GetObject("Appointment2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Appointment3 {
+            get {
+                object obj = ResourceManager.GetObject("Appointment3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,6 +213,36 @@ namespace ClinicSystem.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap printer_icon {
+            get {
+                object obj = ResourceManager.GetObject("printer-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap psd_delete_icon {
+            get {
+                object obj = ResourceManager.GetObject("psd-delete-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap purchase60x601 {
+            get {
+                object obj = ResourceManager.GetObject("purchase60x601", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap registration60x60 {
             get {
                 object obj = ResourceManager.GetObject("registration60x60", resourceCulture);
@@ -176,6 +266,16 @@ namespace ClinicSystem.Properties {
         internal static System.Drawing.Bitmap sneha75x75 {
             get {
                 object obj = ResourceManager.GetObject("sneha75x75", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap update {
+            get {
+                object obj = ResourceManager.GetObject("update", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

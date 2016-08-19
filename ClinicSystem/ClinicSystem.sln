@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicSystem", "ClinicSyste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicSystemDAO", "ClinicSystemDAO\ClinicSystemDAO.csproj", "{619B67CC-13FD-434A-875D-721606D4553C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicSystemServices", "ClinicSystemServices\ClinicSystemServices.csproj", "{E20B5E89-DA0B-4EA2-9F1E-3862D6D1C32B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicSystemModels", "ClinicSystemModels\ClinicSystemModels.csproj", "{DB4B2030-19EA-4E5F-8477-7C1F43235717}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{619B67CC-13FD-434A-875D-721606D4553C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{619B67CC-13FD-434A-875D-721606D4553C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{619B67CC-13FD-434A-875D-721606D4553C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E20B5E89-DA0B-4EA2-9F1E-3862D6D1C32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E20B5E89-DA0B-4EA2-9F1E-3862D6D1C32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E20B5E89-DA0B-4EA2-9F1E-3862D6D1C32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E20B5E89-DA0B-4EA2-9F1E-3862D6D1C32B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DB4B2030-19EA-4E5F-8477-7C1F43235717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DB4B2030-19EA-4E5F-8477-7C1F43235717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB4B2030-19EA-4E5F-8477-7C1F43235717}.Release|Any CPU.ActiveCfg = Release|Any CPU
